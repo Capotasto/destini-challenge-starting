@@ -3,6 +3,9 @@
 
 # Destini 🤔
 
+## My Result
+![Result App](https://github.com/Capotasto/destini-challenge-starting/blob/master/screen_shots/result.gif)
+
 ## Our Goal
 
 In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
